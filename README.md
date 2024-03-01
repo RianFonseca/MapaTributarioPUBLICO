@@ -1,1 +1,1 @@
-This is a Tax Map API used to search for NCMs (Mercosur Common Nomenclature) which provides comprehensive information about them.
+This is a Tax Map API designed for searching estates and NCMs (Mercosul Common Nomenclature), offering comprehensive information about each.
